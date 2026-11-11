@@ -1,0 +1,55 @@
+{
+  "repository": "Fully-Powered-AI/hospitality-capability-templates",
+  "title": "Hospitality",
+  "term": "industries/hospitality",
+  "capabilities": [
+    {
+      "id": "group-block-pickup-review",
+      "name": "Group room block pickup review",
+      "version": "0.1.0",
+      "summary": "As a group's room block nears its review or release date, the revenue manager and group-sales owner get one brief: rooms blocked, rooms confirmed, room nights still unfilled, counts that do not reconcile, and the questions for the account owner. A person decides any release or revised offer; the brief releases nothing.",
+      "path": "group-block-pickup-review/",
+      "directory": "https://fullypowered.ai/capabilities/group-block-pickup-review/"
+    },
+    {
+      "id": "menu-input-cost-change-review",
+      "name": "Menu input cost change review",
+      "version": "0.1.0",
+      "summary": "When supplier prices change, the chef and food-and-beverage manager get one worksheet: each price movement tied to the quantities in the supplied recipes, the cost per portion of every affected dish before and after, and questions for the chef. It sets no menu price.",
+      "path": "menu-input-cost-change-review/",
+      "directory": "https://fullypowered.ai/capabilities/menu-input-cost-change-review/"
+    },
+    {
+      "id": "public-guest-review-reply",
+      "name": "Public guest review reply",
+      "version": "0.1.0",
+      "summary": "Answer an online guest review without exposing the guest's stay. Hand over the review and the service actions you have confirmed, and get a short public reply plus separate private notes, each statement tied to its source. The guest relations manager checks and approves.",
+      "path": "public-guest-review-reply/",
+      "directory": "https://fullypowered.ai/capabilities/public-guest-review-reply/"
+    },
+    {
+      "id": "recurring-repair-service-history",
+      "name": "Recurring repair service history",
+      "version": "0.1.0",
+      "summary": "When repeated maintenance keeps disturbing guests, the facilities manager gets one brief by equipment and room area: repeated work orders, confirmed service interruptions and missing inspection records side by side. It finds no cause and orders no work.",
+      "path": "recurring-repair-service-history/",
+      "directory": "https://fullypowered.ai/capabilities/recurring-repair-service-history/"
+    },
+    {
+      "id": "room-turn-priority-list",
+      "name": "Room turn priority list",
+      "version": "0.1.0",
+      "summary": "Each morning the housekeeping supervisor gets one worklist of the rooms to turn, in the property's own priority order, with rooms awaiting inspection marked and every conflict in status written as a question. It inspects nothing and assigns nobody.",
+      "path": "room-turn-priority-list/",
+      "directory": "https://fullypowered.ai/capabilities/room-turn-priority-list/"
+    },
+    {
+      "id": "service-roster-options",
+      "name": "Service roster options",
+      "version": "0.1.0",
+      "summary": "For a department manager building a rota for expected occupancy, covers or events: two or three roster options side by side, with each role's need, the staff confirmed available, the periods left uncovered and the labor-cost assumptions you supplied. You verify and approve; nothing is published.",
+      "path": "service-roster-options/",
+      "directory": "https://fullypowered.ai/capabilities/service-roster-options/"
+    }
+  ]
+}

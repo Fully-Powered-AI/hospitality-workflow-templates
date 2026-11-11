@@ -1,0 +1,44 @@
+{
+  "id": "public-guest-review-reply",
+  "name": "Public guest review reply",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Answer an online guest review without exposing the guest's stay. Hand over the review and the service actions you have confirmed, and get a short public reply plus separate private notes, each statement tied to its source. The guest relations manager checks and approves.",
+  "directory": "https://fullypowered.ai/capabilities/public-guest-review-reply/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/customer-support-and-service"
+  ],
+  "industries": [
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "customer-reply-drafting",
+    "complaint-and-refund-request-handling",
+    "copy-edit-with-a-change-list"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of hospitality work."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "recurring-repair-service-history",
+  "name": "Recurring repair service history",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When repeated maintenance keeps disturbing guests, the facilities manager gets one brief by equipment and room area: repeated work orders, confirmed service interruptions and missing inspection records side by side. It finds no cause and orders no work.",
+  "directory": "https://fullypowered.ai/capabilities/recurring-repair-service-history/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/health-safety-and-environment"
+  ],
+  "industries": [
+    "industries/hospitality",
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "preventive-maintenance-plan",
+    "repeat-incident-pattern-review",
+    "contractor-safety-prequalification"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of hospitality property upkeep, and its own rules for prepared work: the property's records as the only authority, set column headings with a stop on a mismatch, a repeat counted by fixed rules, every gap written as a question for a named role, and a person who investigates and decides."
+    }
+  ]
+}

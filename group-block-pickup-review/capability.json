@@ -1,0 +1,44 @@
+{
+  "id": "group-block-pickup-review",
+  "name": "Group room block pickup review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "As a group's room block nears its review or release date, the revenue manager and group-sales owner get one brief: rooms blocked, rooms confirmed, room nights still unfilled, counts that do not reconcile, and the questions for the account owner. A person decides any release or revised offer; the brief releases nothing.",
+  "directory": "https://fullypowered.ai/capabilities/group-block-pickup-review/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "demand-and-supply-review",
+    "renewal-risk-review",
+    "operations-kpi-scorecard"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of hospitality work: pickup counted from confirmed bookings only, tentative rooms shown apart, reported pickup checked against the booking rows, unreconciled counts left unresolved, the approved agreement summary used as supplied, and questions for the account owner with the release and revised-offer decisions left to the revenue manager and group-sales owner."
+    }
+  ]
+}
