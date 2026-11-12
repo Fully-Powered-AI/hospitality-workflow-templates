@@ -2,7 +2,7 @@
 
 As a group's room block nears its review or release date, the revenue manager and group-sales owner get one brief: rooms blocked, rooms confirmed, room nights still unfilled, counts that do not reconcile, and the questions for the account owner. A person decides any release or revised offer; the brief releases nothing.
 
-*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/group-block-pickup-review/)*
+*Workflow template · Hospitality · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/group-block-pickup-review/)*
 
 ## The outcome
 
