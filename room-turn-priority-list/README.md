@@ -2,7 +2,7 @@
 
 Each morning the housekeeping supervisor gets one worklist of the rooms to turn, in the property's own priority order, with rooms awaiting inspection marked and every conflict in status written as a question. It inspects nothing and assigns nobody.
 
-*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/room-turn-priority-list/)*
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/room-turn-priority-list/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on two or three past mornings your 
 
 ## Related workflow templates
 
-- [Unit turnover readiness checklist](https://fullypowered.ai/workflow templates/unit-turnover-readiness-checklist/)
-- [Emergency drill brief](https://fullypowered.ai/workflow templates/emergency-drill-brief/)
-- [Preventive maintenance plan](https://fullypowered.ai/workflow templates/preventive-maintenance-plan/)
+- [Unit turnover readiness checklist](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/)
+- [Emergency drill brief](https://fullypowered.ai/workflows/emergency-drill-brief/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
 
 ## Make it yours
 

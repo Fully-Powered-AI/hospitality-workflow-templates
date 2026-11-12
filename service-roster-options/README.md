@@ -2,7 +2,7 @@
 
 For a department manager building a rota for expected occupancy, covers or events: two or three roster options side by side, with each role's need, the staff confirmed available, the periods left uncovered and the labor-cost assumptions you supplied. You verify and approve; nothing is published.
 
-*Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/service-roster-options/)*
+*Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-roster-options/)*
 
 ## The outcome
 
@@ -74,9 +74,9 @@ The template judges no working-time or employment-law limit. It applies only the
 
 ## Related workflow templates
 
-- [Headcount plan](https://fullypowered.ai/workflow templates/headcount-plan/)
-- [Payroll preparation and timesheet review](https://fullypowered.ai/workflow templates/payroll-preparation-and-timesheet-review/)
-- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
+- [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/)
 
 ## Make it yours
 

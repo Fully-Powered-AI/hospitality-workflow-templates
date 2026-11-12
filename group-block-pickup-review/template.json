@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "As a group's room block nears its review or release date, the revenue manager and group-sales owner get one brief: rooms blocked, rooms confirmed, room nights still unfilled, counts that do not reconcile, and the questions for the account owner. A person decides any release or revised offer; the brief releases nothing.",
-  "directory": "https://fullypowered.ai/workflow templates/group-block-pickup-review/",
+  "directory": "https://fullypowered.ai/workflows/group-block-pickup-review/",
   "primary_function": "functions/operations-and-process-improvement",
   "functions": [
     "functions/operations-and-process-improvement",

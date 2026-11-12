@@ -2,7 +2,7 @@
 
 When supplier prices change, the chef and food-and-beverage manager get one worksheet: each price movement tied to the quantities in the supplied recipes, the cost per portion of every affected dish before and after, and questions for the chef. It sets no menu price.
 
-*Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/menu-input-cost-change-review/)*
+*Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/menu-input-cost-change-review/)*
 
 ## The outcome
 
@@ -79,9 +79,9 @@ Testing in your environment means running it on a past price change the chef rem
 
 ## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/workflow templates/price-change-review/)
-- [Supplier spend analysis](https://fullypowered.ai/workflow templates/supplier-spend-analysis/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 Answer an online guest review without exposing the guest's stay. Hand over the review and the service actions you have confirmed, and get a short public reply plus separate private notes, each statement tied to its source. The guest relations manager checks and approves.
 
-*Workflow template · Hospitality · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/public-guest-review-reply/)*
+*Workflow template · Hospitality · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/public-guest-review-reply/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on past reviews your manager has al
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflow templates/complaint-and-refund-request-handling/)
-- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
 
 ## Make it yours
 

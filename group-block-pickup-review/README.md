@@ -2,7 +2,7 @@
 
 As a group's room block nears its review or release date, the revenue manager and group-sales owner get one brief: rooms blocked, rooms confirmed, room nights still unfilled, counts that do not reconcile, and the questions for the account owner. A person decides any release or revised offer; the brief releases nothing.
 
-*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/group-block-pickup-review/)*
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/group-block-pickup-review/)*
 
 ## The outcome
 
@@ -71,9 +71,9 @@ Testing in your environment means running it on a past block your team already k
 
 ## Related workflow templates
 
-- [Demand and supply review](https://fullypowered.ai/workflow templates/demand-and-supply-review/)
-- [Renewal risk review](https://fullypowered.ai/workflow templates/renewal-risk-review/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
+- [Demand and supply review](https://fullypowered.ai/workflows/demand-and-supply-review/)
+- [Renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
 
 ## Make it yours
 

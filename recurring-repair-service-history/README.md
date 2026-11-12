@@ -2,7 +2,7 @@
 
 When repeated maintenance keeps disturbing guests, the facilities manager gets one brief by equipment and room area: repeated work orders, confirmed service interruptions and missing inspection records side by side. It finds no cause and orders no work.
 
-*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/recurring-repair-service-history/)*
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recurring-repair-service-history/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on a past quarter the facilities ma
 
 ## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/workflow templates/preventive-maintenance-plan/)
-- [Repeat incident pattern review](https://fullypowered.ai/workflow templates/repeat-incident-pattern-review/)
-- [Contractor safety prequalification](https://fullypowered.ai/workflow templates/contractor-safety-prequalification/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
+- [Repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)
+- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/)
 
 ## Make it yours
 
