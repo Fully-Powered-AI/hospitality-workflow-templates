@@ -1,6 +1,6 @@
 # Service roster options
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -24,7 +24,7 @@ Do not use it:
 - **Approves the chosen roster:** the department manager, with HR where the property's process requires it.
 - **Supplies availability:** the manager or supervisor who holds it, using staff reference codes.
 - **Supplies forecasts and event orders:** reservations, food-and-beverage operations or the event manager.
-- **Names who works each shift and publishes the rota:** the manager, outside this capability.
+- **Names who works each shift and publishes the rota:** the manager, outside this workflow template.
 
 ## Inputs
 

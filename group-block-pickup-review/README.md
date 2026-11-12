@@ -2,7 +2,7 @@
 
 As a group's room block nears its review or release date, the revenue manager and group-sales owner get one brief: rooms blocked, rooms confirmed, room nights still unfilled, counts that do not reconcile, and the questions for the account owner. A person decides any release or revised offer; the brief releases nothing.
 
-*Capability template · Hospitality · Operations and process improvement · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/group-block-pickup-review/)*
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/group-block-pickup-review/)*
 
 ## The outcome
 
@@ -34,7 +34,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Sales](https://fullypowered.ai/functions/sales/), for the group-sales owner and account owner who hold the relationship with the group.
 - [Hospitality](https://fullypowered.ai/industries/hospitality/), where hotels sell rooms to groups ahead of time and need to see the pickup before the release date.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several blocks run at once and each needs the same kind of review.
-- It is separate from [demand and supply review](https://fullypowered.ai/capabilities/demand-and-supply-review/), which compares planned demand with confirmed supply across items and months, and from [renewal risk review](https://fullypowered.ai/capabilities/renewal-risk-review/), which looks at contracts coming up for renewal and the warning signs on each account. This one looks at a single block of rooms against its own bookings.
+- It is separate from [demand and supply review](https://fullypowered.ai/workflows/demand-and-supply-review/), which compares planned demand with confirmed supply across items and months, and from [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/), which looks at contracts coming up for renewal and the warning signs on each account. This one looks at a single block of rooms against its own bookings.
 
 ## What has to change for your company
 
@@ -42,9 +42,9 @@ Name your revenue manager, group-sales owner and account owner. Set the column h
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, edited after an independent review, and run again on the edited text. Both runs had seen the example's output first, so neither is independent of the example, and only one input set has been tried: no stop, disputed-terms, missing-summary or passed-date case has been run. The record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, edited after an independent review, and run again on the edited text. Both runs had seen the example's output first, so neither is independent of the example, and only one input set has been tried: no stop, disputed-terms, missing-summary or passed-date case has been run. The record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past block your team already knows, with cases written in advance: a pickup figure that differs from the bookings, tentative rooms, a reservation outside the block, a disputed summary. The revenue manager checks every count against the booking report before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past block your team already knows, with cases written in advance: a pickup figure that differs from the bookings, tentative rooms, a reservation outside the block, a disputed summary. The revenue manager checks every count against the booking report before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -55,11 +55,11 @@ Testing in your environment means running it on a past block your team already k
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -69,12 +69,12 @@ Testing in your environment means running it on a past block your team already k
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Demand and supply review](https://fullypowered.ai/capabilities/demand-and-supply-review/)
-- [Renewal risk review](https://fullypowered.ai/capabilities/renewal-risk-review/)
-- [Operations KPI scorecard](https://fullypowered.ai/capabilities/operations-kpi-scorecard/)
+- [Demand and supply review](https://fullypowered.ai/workflow templates/demand-and-supply-review/)
+- [Renewal risk review](https://fullypowered.ai/workflow templates/renewal-risk-review/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

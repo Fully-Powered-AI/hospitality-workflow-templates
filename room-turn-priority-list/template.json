@@ -1,10 +1,10 @@
 {
   "id": "room-turn-priority-list",
   "name": "Room turn priority list",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Each morning the housekeeping supervisor gets one worklist of the rooms to turn, in the property's own priority order, with rooms awaiting inspection marked and every conflict in status written as a question. It inspects nothing and assigns nobody.",
-  "directory": "https://fullypowered.ai/capabilities/room-turn-priority-list/",
+  "directory": "https://fullypowered.ai/workflow templates/room-turn-priority-list/",
   "primary_function": "functions/operations-and-process-improvement",
   "functions": [
     "functions/operations-and-process-improvement"

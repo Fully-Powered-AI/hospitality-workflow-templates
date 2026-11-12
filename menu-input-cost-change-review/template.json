@@ -1,10 +1,10 @@
 {
   "id": "menu-input-cost-change-review",
   "name": "Menu input cost change review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When supplier prices change, the chef and food-and-beverage manager get one worksheet: each price movement tied to the quantities in the supplied recipes, the cost per portion of every affected dish before and after, and questions for the chef. It sets no menu price.",
-  "directory": "https://fullypowered.ai/capabilities/menu-input-cost-change-review/",
+  "directory": "https://fullypowered.ai/workflow templates/menu-input-cost-change-review/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting",

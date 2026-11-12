@@ -1,6 +1,6 @@
 # Service roster options: an invented example
 
-*Illustrative example with invented data.* The restaurant, the staff codes, the forecasts, the rates and the rules below are all invented, and the staff are reference codes, not people. The restaurant is an invented dining room inside an invented hotel, and the restaurant manager is asking for roster options for one weekend with an event on the Saturday. First come the inputs the manager supplied, in full, then the page the capability returned.
+*Illustrative example with invented data.* The restaurant, the staff codes, the forecasts, the rates and the rules below are all invented, and the staff are reference codes, not people. The restaurant is an invented dining room inside an invented hotel, and the restaurant manager is asking for roster options for one weekend with an event on the Saturday. First come the inputs the manager supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

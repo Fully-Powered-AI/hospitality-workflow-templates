@@ -2,11 +2,11 @@
 
 When repeated maintenance keeps disturbing guests, the facilities manager gets one brief by equipment and room area: repeated work orders, confirmed service interruptions and missing inspection records side by side. It finds no cause and orders no work.
 
-*Capability template · Hospitality · Operations and process improvement · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/recurring-repair-service-history/)*
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/recurring-repair-service-history/)*
 
 ## The outcome
 
-The same lift, air-conditioning unit or ice machine keeps appearing in the maintenance log, and guests keep noticing. The facts sit in three places that rarely meet: the work-order log, the notes front desk and housekeeping make when service is disrupted, and the inspection records. This capability puts them on one page, grouped by room area and ranked by how often a piece of equipment has been worked on in the review window.
+The same lift, air-conditioning unit or ice machine keeps appearing in the maintenance log, and guests keep noticing. The facts sit in three places that rarely meet: the work-order log, the notes front desk and housekeeping make when service is disrupted, and the inspection records. This workflow template puts them on one page, grouped by room area and ranked by how often a piece of equipment has been worked on in the review window.
 
 For each piece of equipment that has been worked on repeatedly, the brief lists the work orders with their dates and who did the work, counts the exact repeats of the same reported issue, sets the confirmed service interruptions beside the work orders they overlap in time, and shows the state of its inspection records: the last one, whether it is past the interval the property set, and whether a check was recorded after each repair was closed. Where the records are silent, the brief says so and turns the gap into a question.
 
@@ -43,7 +43,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the history of a machine lives in a few people's memories.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more rooms and more equipment outgrow what one manager can remember.
 
-The separate [preventive maintenance plan](https://fullypowered.ai/capabilities/preventive-maintenance-plan/) plans equipment care ahead of time. The [repeat incident pattern review](https://fullypowered.ai/capabilities/repeat-incident-pattern-review/) compares safety incidents and their earlier actions. [Contractor safety prequalification](https://fullypowered.ai/capabilities/contractor-safety-prequalification/) concerns who may work on site. This capability reads what has already happened to one property's equipment.
+The separate [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/) plans equipment care ahead of time. The [repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/) compares safety incidents and their earlier actions. [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/) concerns who may work on site. This workflow template reads what has already happened to one property's equipment.
 
 ## What has to change for your company
 
@@ -51,9 +51,9 @@ Use your own equipment IDs and room-area names, and use them the same way in all
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the run was not blind (the published brief had been seen), and the record is published with it. It has not been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It finds no cause and certifies no equipment.
+Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the run was not blind (the published brief had been seen), and the record is published with it. It has not been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It finds no cause and certifies no equipment.
 
-Testing in your environment means running it on a past quarter the facilities manager remembers well, plus cases written in advance with their expected behavior: a renamed column, a work order for equipment missing from the register, a service note nobody confirmed, a repair closed with no check afterwards. The manager checks every line against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter the facilities manager remembers well, plus cases written in advance with their expected behavior: a renamed column, a work order for equipment missing from the register, a service note nobody confirmed, a repair closed with no check afterwards. The manager checks every line against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on a past quarter the facilities ma
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on a past quarter the facilities ma
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/capabilities/preventive-maintenance-plan/)
-- [Repeat incident pattern review](https://fullypowered.ai/capabilities/repeat-incident-pattern-review/)
-- [Contractor safety prequalification](https://fullypowered.ai/capabilities/contractor-safety-prequalification/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflow templates/preventive-maintenance-plan/)
+- [Repeat incident pattern review](https://fullypowered.ai/workflow templates/repeat-incident-pattern-review/)
+- [Contractor safety prequalification](https://fullypowered.ai/workflow templates/contractor-safety-prequalification/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

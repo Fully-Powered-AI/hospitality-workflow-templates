@@ -4,7 +4,7 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-10.
 
-The inputs are the invented example for this capability template (Larkfield Table, four dishes, eight ingredients). No client data was used. The inputs used are the five inputs listed under "The inputs" in `public/example.md`: the ingredient price list, the recipes, the dish list, the costing rules (as purchased) and the settings (review date 10 November 2026, no question threshold given).
+The inputs are the invented example for this workflow template (Larkfield Table, four dishes, eight ingredients). No client data was used. The inputs used are the five inputs listed under "The inputs" in `public/example.md`: the ingredient price list, the recipes, the dish list, the costing rules (as purchased) and the settings (review date 10 November 2026, no question threshold given).
 
 ## How the run was done
 

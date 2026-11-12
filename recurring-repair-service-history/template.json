@@ -1,10 +1,10 @@
 {
   "id": "recurring-repair-service-history",
   "name": "Recurring repair service history",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When repeated maintenance keeps disturbing guests, the facilities manager gets one brief by equipment and room area: repeated work orders, confirmed service interruptions and missing inspection records side by side. It finds no cause and orders no work.",
-  "directory": "https://fullypowered.ai/capabilities/recurring-repair-service-history/",
+  "directory": "https://fullypowered.ai/workflow templates/recurring-repair-service-history/",
   "primary_function": "functions/operations-and-process-improvement",
   "functions": [
     "functions/operations-and-process-improvement",

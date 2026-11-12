@@ -2,7 +2,7 @@
 
 - **Product:** Claude, run in Claude Code
 
-Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran this trial did not write the template, but it had read the template, the example and an earlier trial record of this capability template before drafting.
+Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran this trial did not write the template, but it had read the template, the example and an earlier trial record of this workflow template before drafting.
 
 Date: 2026-11-10
 
@@ -47,7 +47,7 @@ WHERE EACH SENTENCE COMES FROM
 PRIVATE FOLLOW-UP NOTES (not for posting)
 Open points: R5. The guest wished to be warned at booking. A3 is confirmed but marked no for public mention.
 Confirmed actions kept out of the public reply: A3, not marked for public mention. A4, not marked for public mention.
-Decisions for Dana: 1. Whether anything is said publicly about A3. 2. Whether anything about A4 is said to the guest privately; this capability does not draft that.
+Decisions for Dana: 1. Whether anything is said publicly about A3. 2. Whether anything about A4 is said to the guest privately; this workflow template does not draft that.
 Claims in the review that conflict with a confirmed action: none.
 Serious allegations: none.
 Names to handle: none (no staff, guest or child is named; "TravellerR" is the name shown).

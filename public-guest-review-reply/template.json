@@ -1,10 +1,10 @@
 {
   "id": "public-guest-review-reply",
   "name": "Public guest review reply",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Answer an online guest review without exposing the guest's stay. Hand over the review and the service actions you have confirmed, and get a short public reply plus separate private notes, each statement tied to its source. The guest relations manager checks and approves.",
-  "directory": "https://fullypowered.ai/capabilities/public-guest-review-reply/",
+  "directory": "https://fullypowered.ai/workflow templates/public-guest-review-reply/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

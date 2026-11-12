@@ -1,10 +1,10 @@
 {
   "id": "service-roster-options",
   "name": "Service roster options",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For a department manager building a rota for expected occupancy, covers or events: two or three roster options side by side, with each role's need, the staff confirmed available, the periods left uncovered and the labor-cost assumptions you supplied. You verify and approve; nothing is published.",
-  "directory": "https://fullypowered.ai/capabilities/service-roster-options/",
+  "directory": "https://fullypowered.ai/workflow templates/service-roster-options/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

@@ -1,6 +1,6 @@
 # Group room block pickup review: an invented example
 
-*Illustrative example with invented data.* The property, the group, the reservations, the people and every figure below are invented. "Hotel A" is an invented 90-room hotel and "Group G" an invented conference group with a block of 101 room nights over three nights in March 2027. The revenue manager runs the review; the group-sales owner and the account owner for Group G respond. First come the inputs the revenue manager supplied, in full, then the brief the capability returned.
+*Illustrative example with invented data.* The property, the group, the reservations, the people and every figure below are invented. "Hotel A" is an invented 90-room hotel and "Group G" an invented conference group with a block of 101 room nights over three nights in March 2027. The revenue manager runs the review; the group-sales owner and the account owner for Group G respond. First come the inputs the revenue manager supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 

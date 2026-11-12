@@ -2,7 +2,7 @@
 
 For a department manager building a rota for expected occupancy, covers or events: two or three roster options side by side, with each role's need, the staff confirmed available, the periods left uncovered and the labor-cost assumptions you supplied. You verify and approve; nothing is published.
 
-*Capability template · Hospitality · People and HR · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/service-roster-options/)*
+*Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/service-roster-options/)*
 
 ## The outcome
 
@@ -41,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Decide the periods and their lengths. Set your own staffing ratios and minimums, and decide which measures drive each role. Name the rules you want checked and the ones you check by hand. Decide whether the on-cost percentage applies to every role. Keep staff as reference codes in what you paste, and agree when HR sees an option. It stays a different piece of work from the [headcount plan](https://fullypowered.ai/capabilities/headcount-plan/), which plans roles for a year, and from [payroll preparation and timesheet review](https://fullypowered.ai/capabilities/payroll-preparation-and-timesheet-review/), which handles hours already worked. For events with their own run of show, the [event plan](https://fullypowered.ai/capabilities/event-plan/) comes first. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to your scheduling or payroll system.
+Decide the periods and their lengths. Set your own staffing ratios and minimums, and decide which measures drive each role. Name the rules you want checked and the ones you check by hand. Decide whether the on-cost percentage applies to every role. Keep staff as reference codes in what you paste, and agree when HR sees an option. It stays a different piece of work from the [headcount plan](https://fullypowered.ai/workflows/headcount-plan/), which plans roles for a year, and from [payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/), which handles hours already worked. For events with their own run of show, the [event plan](https://fullypowered.ai/workflows/event-plan/) comes first. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to your scheduling or payroll system.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it. The template was clarified in small ways afterward, and those clarifications have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it. The template was clarified in small ways afterward, and those clarifications have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-The template judges no working-time or employment-law limit. It applies only the rules you supply, as arithmetic, and says nothing about whether those rules are enough. Testing in your environment means running it on a past week your manager already knows, plus hard cases written in advance: a blank availability cell, a renamed column, a rule the options strain, a request to say who should work. The manager checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+The template judges no working-time or employment-law limit. It applies only the rules you supply, as arithmetic, and says nothing about whether those rules are enough. Testing in your environment means running it on a past week your manager already knows, plus hard cases written in advance: a blank availability cell, a renamed column, a rule the options strain, a request to say who should work. The manager checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -58,11 +58,11 @@ The template judges no working-time or employment-law limit. It applies only the
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -72,12 +72,12 @@ The template judges no working-time or employment-law limit. It applies only the
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Headcount plan](https://fullypowered.ai/capabilities/headcount-plan/)
-- [Payroll preparation and timesheet review](https://fullypowered.ai/capabilities/payroll-preparation-and-timesheet-review/)
-- [Event plan](https://fullypowered.ai/capabilities/event-plan/)
+- [Headcount plan](https://fullypowered.ai/workflow templates/headcount-plan/)
+- [Payroll preparation and timesheet review](https://fullypowered.ai/workflow templates/payroll-preparation-and-timesheet-review/)
+- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

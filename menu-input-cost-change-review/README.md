@@ -2,11 +2,11 @@
 
 When supplier prices change, the chef and food-and-beverage manager get one worksheet: each price movement tied to the quantities in the supplied recipes, the cost per portion of every affected dish before and after, and questions for the chef. It sets no menu price.
 
-*Capability template · Hospitality · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/menu-input-cost-change-review/)*
+*Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/menu-input-cost-change-review/)*
 
 ## The outcome
 
-A delivery arrives at a new price and the question every kitchen asks follows: which of our dishes just got more expensive, and by how much? This capability answers it from your own records instead of from memory. Each ingredient whose price moved is listed with its old price, new price and change. Beside it sit the dishes that use it and the quantity each recipe calls for, so the movement turns into money per batch and then per portion.
+A delivery arrives at a new price and the question every kitchen asks follows: which of our dishes just got more expensive, and by how much? This workflow template answers it from your own records instead of from memory. Each ingredient whose price moved is listed with its old price, new price and change. Beside it sit the dishes that use it and the quantity each recipe calls for, so the movement turns into money per batch and then per portion.
 
 The dishes come back ranked by how far their cost per portion moved, with the ingredient doing most of the work named for each. Where the records do not settle something, the worksheet says so and asks: an ingredient with no price, a unit that does not match, a product the supplier has changed, a recipe quantity worth checking against what the kitchen actually uses.
 
@@ -42,7 +42,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where recipes and costing rules sit in the chef's head and a few files, and belong on a page.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more dishes, more sites or more suppliers make doing it by hand too slow.
 
-It starts from supplier prices and recipes, and its question is what a dish costs now. [Price change review](https://fullypowered.ai/capabilities/price-change-review/) starts from the prices a business charges and tests proposed changes to them. [Supplier spend analysis](https://fullypowered.ai/capabilities/supplier-spend-analysis/) starts from payables and looks at where the money goes by supplier. [Budget versus actual variance commentary](https://fullypowered.ai/capabilities/budget-versus-actual-variance-commentary/) explains a month's gap to budget in the ledger.
+It starts from supplier prices and recipes, and its question is what a dish costs now. [Price change review](https://fullypowered.ai/workflows/price-change-review/) starts from the prices a business charges and tests proposed changes to them. [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/) starts from payables and looks at where the money goes by supplier. [Budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/) explains a month's gap to budget in the ledger.
 
 ## What has to change for your company
 
@@ -50,9 +50,9 @@ Write down your costing rules in the plain form the template reads: whether reci
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
+Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
 
-Testing in your environment means running it on a past price change the chef remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a unit in grams against a recipe in kilograms, an ingredient with no price, two prices for one ingredient, a changed product, a blank yield. The chef checks every dish against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past price change the chef remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a unit in grams against a recipe in kilograms, an ingredient with no price, two prices for one ingredient, a changed product, a blank yield. The chef checks every dish against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -63,11 +63,11 @@ Testing in your environment means running it on a past price change the chef rem
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -77,12 +77,12 @@ Testing in your environment means running it on a past price change the chef rem
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/capabilities/price-change-review/)
-- [Supplier spend analysis](https://fullypowered.ai/capabilities/supplier-spend-analysis/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/capabilities/budget-versus-actual-variance-commentary/)
+- [Price change review](https://fullypowered.ai/workflow templates/price-change-review/)
+- [Supplier spend analysis](https://fullypowered.ai/workflow templates/supplier-spend-analysis/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

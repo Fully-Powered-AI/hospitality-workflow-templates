@@ -1,6 +1,6 @@
 # Public guest review reply: an invented example
 
-*Illustrative example with invented data.* Hotel Q is an invented 40-room hotel, the guest is invented, and so are the people, the dates and every record below. First come the inputs the guest relations manager supplied, in full, then the draft the capability returned.
+*Illustrative example with invented data.* Hotel Q is an invented 40-room hotel, the guest is invented, and so are the people, the dates and every record below. First come the inputs the guest relations manager supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 
@@ -66,7 +66,7 @@ WHERE EACH SENTENCE COMES FROM
 PRIVATE FOLLOW-UP NOTES (not for posting)
 Open points: R5. The guest wishes they had been warned at booking. A3 is confirmed, but it is not marked for public mention. Dana decides whether the reply may say anything about it.
 Confirmed actions kept out of the public reply: A3, not marked for public mention. A4, not marked for public mention; the reply offers and hints at no compensation.
-Decisions for Dana: 1. Whether to mention A3 publicly. 2. Whether anything about A4 is said to the guest privately; this capability does not draft that message.
+Decisions for Dana: 1. Whether to mention A3 publicly. 2. Whether anything about A4 is said to the guest privately; this workflow template does not draft that message.
 Claims in the review that conflict with a confirmed action: none.
 Serious allegations: none.
 Names to handle: none (no staff, guest or child is named; "TravellerR" is the name shown).
