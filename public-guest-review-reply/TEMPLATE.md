@@ -229,4 +229,4 @@ Never ask for a password or a login code.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried on its invented example in Claude on 10 November 2026, the record published with it; the trial was not independent, because the assistant had seen the example's reply before drafting. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 10 November 2026, the record published with it; the trial was not independent, because the assistant had seen the example's reply before drafting. Not yet tested in a client environment.

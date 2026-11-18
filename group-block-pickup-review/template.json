@@ -22,7 +22,7 @@
     "operations-kpi-scorecard"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -38,7 +38,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own design, written from its published map of hospitality work: pickup counted from confirmed bookings only, tentative rooms shown apart, reported pickup checked against the booking rows, unreconciled counts left unresolved, the approved agreement summary used as supplied, and questions for the account owner with the release and revised-offer decisions left to the revenue manager and group-sales owner."
+      "title": "FullyPowered AI's own design, written from its published map of hospitality work: pickup counted from confirmed bookings only, tentative rooms shown apart, reported pickup checked against the booking rows, unreconciled counts left unresolved, the approved agreement summary used as supplied, and questions for the account owner with the release and revised-offer decisions left to the revenue manager and group-sales owner."
     }
   ]
 }

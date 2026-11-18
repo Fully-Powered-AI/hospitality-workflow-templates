@@ -50,11 +50,11 @@ Write down your costing rules in the plain form the template reads: whether reci
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
 
 Testing in your environment means running it on a past price change the chef remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a unit in grams against a recipe in kilograms, an ingredient with no price, two prices for one ingredient, a changed product, a blank yield. The chef checks every dish against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -85,4 +85,4 @@ Testing in your environment means running it on a past price change the chef rem
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
