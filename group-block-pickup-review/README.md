@@ -25,7 +25,7 @@ The revenue manager or the group-sales owner runs it when a block is approaching
 
 ## What they supply
 
-- The block export: for each night and room type, the rooms blocked and the pickup the system reports.
+- The block export from your hotel reservation system: for each night and room type, the rooms blocked and the pickup the system reports.
 - The booking rows for the block: reservation, night, room type, rooms and status.
 - The approved summary of the group agreement: the review date, the release date, the stated minimum pickup and whether the terms are agreed or disputed.
 - The room inventory: rooms in inventory by night and room type.

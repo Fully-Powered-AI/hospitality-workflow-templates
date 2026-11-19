@@ -27,7 +27,7 @@ The housekeeping supervisor, or an assistant manager who plans the day for them,
 
 ## What they supply
 
-- **The departure list.** One row per room: the room, its type, whether the guest has departed, is expected to depart or is not known, and the time.
+- **The departure list** from your hotel reservation system. One row per room: the room, its type, whether the guest has departed, is expected to depart or is not known, and the time.
 - **The arrival list.** One row per arriving room: the room, its type, the expected arrival time and a flag from your own set of codes, such as a confirmed early arrival or a group block.
 - **The supervisor's room-status notes.** One row per note: the room, a status in a short fixed set of words, a free note and the time it was written.
 - **The priority rules.** Your own, in order, each one a simple test on the arrival time, the flag, the room type or the status.
