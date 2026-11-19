@@ -4,6 +4,8 @@ Answer an online guest review without exposing the guest's stay. Hand over the r
 
 *Workflow template · Hospitality · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/public-guest-review-reply/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/public-guest-review-reply/?from=gh-hospitality-public-guest-review-reply)
+
 ## The outcome
 
 A review goes up on a public site, and the person who answers it has a calm, short draft to work from. The public reply thanks the guest, acknowledges what the review actually says, and states only what the property has verifiably done. Next to it sit private notes for the team: what the review raised that nobody has answered yet, which confirmed actions were kept out of the public reply and why, and what the manager has to decide.

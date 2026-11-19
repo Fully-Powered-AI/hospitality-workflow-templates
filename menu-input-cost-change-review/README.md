@@ -4,6 +4,8 @@ When supplier prices change, the chef and food-and-beverage manager get one work
 
 *Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/menu-input-cost-change-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/menu-input-cost-change-review/?from=gh-menu-input-cost-change-review)
+
 ## The outcome
 
 A delivery arrives at a new price and the question every kitchen asks follows: which of our dishes just got more expensive, and by how much? This workflow template answers it from your own records instead of from memory. Each ingredient whose price moved is listed with its old price, new price and change. Beside it sit the dishes that use it and the quantity each recipe calls for, so the movement turns into money per batch and then per portion.

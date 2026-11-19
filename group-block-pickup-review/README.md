@@ -4,6 +4,8 @@ As a group's room block nears its review or release date, the revenue manager an
 
 *Workflow template · Hospitality · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/group-block-pickup-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/group-block-pickup-review/?from=gh-hospitality-group-block-pickup-review)
+
 ## The outcome
 
 Before the review meeting, the revenue manager and the group-sales owner look at the same page. It shows, night by night and room type by room type, how many rooms the group blocked, how many are confirmed, and how many room nights are still unfilled. Tentative bookings are shown on their own line and never counted as pickup.

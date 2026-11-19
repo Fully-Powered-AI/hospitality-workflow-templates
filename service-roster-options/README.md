@@ -4,6 +4,8 @@ For a department manager building a rota for expected occupancy, covers or event
 
 *Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-roster-options/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/service-roster-options/?from=gh-hospitality-service-roster-options)
+
 ## The outcome
 
 Before the week is committed, the manager sees the choices on one page. For every service period, the page shows how many people each role needs for the demand you expect, how many are confirmed available, how many are only pending, and how many places stay empty. Each option then shows what it would cost at the rates and on-costs you supplied, so a gap and its price can be weighed against each other.

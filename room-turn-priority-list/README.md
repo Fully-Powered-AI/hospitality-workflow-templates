@@ -4,6 +4,8 @@ Each morning the housekeeping supervisor gets one worklist of the rooms to turn,
 
 *Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/room-turn-priority-list/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/room-turn-priority-list/?from=gh-hospitality-room-turn-priority-list)
+
 ## The outcome
 
 The day's housekeeping plan starts from one page instead of three lists and a handful of remembered conversations. Every room that has a departure or an arrival appears once, in the order your own priority rules give; a supervisor note about any other room is listed apart, as a question. Beside each room sits what the records say about it: whether the guest has left, whether the room is being turned, whether it is waiting for inspection, and when the arriving guest is expected.

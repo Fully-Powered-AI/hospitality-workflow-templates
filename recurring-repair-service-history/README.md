@@ -4,6 +4,8 @@ When repeated maintenance keeps disturbing guests, the facilities manager gets o
 
 *Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recurring-repair-service-history/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/recurring-repair-service-history/?from=gh-recurring-repair-service-history)
+
 ## The outcome
 
 The same lift, air-conditioning unit or ice machine keeps appearing in the maintenance log, and guests keep noticing. The facts sit in three places that rarely meet: the work-order log, the notes front desk and housekeeping make when service is disrupted, and the inspection records. This workflow template puts them on one page, grouped by room area and ranked by how often a piece of equipment has been worked on in the review window.
