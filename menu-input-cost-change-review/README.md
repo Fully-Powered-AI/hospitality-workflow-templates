@@ -3,7 +3,7 @@
 When supplier prices change, see which dishes cost more per portion and why, with questions for the chef. The chef decides menu prices and purchasing.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Menu input cost change review on our website](https://fullypowered.ai/workflows/menu-input-cost-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Menu input cost change review on our website](https://fullypowered.ai/workflows/menu-input-cost-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

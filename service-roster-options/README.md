@@ -3,7 +3,7 @@
 Two or three roster options side by side for expected occupancy, covers or events, with gaps and labor cost shown. You verify and approve it.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Service roster options on our website](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Service roster options on our website](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
