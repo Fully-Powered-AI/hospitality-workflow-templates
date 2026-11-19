@@ -8,7 +8,7 @@ Two or three roster options side by side for expected occupancy, covers or event
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options)*
@@ -37,7 +37,7 @@ One page in a fixed order. The supplied assumptions, then each role's need by pe
 
 The options work in headcounts. They do not name who works, and they do not rank or compare individuals. The page contains no schedule to publish and nothing to send.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ Decide the periods and their lengths. Set your own staffing ratios and minimums,
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it. The template was clarified in small ways afterward, and those clarifications have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in Claude; the record is published with it. The template was clarified in small ways afterward, and those clarifications have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 The template judges no working-time or employment-law limit. It applies only the rules you supply, as arithmetic, and says nothing about whether those rules are enough. Testing in your environment means running it on a past week your manager already knows, plus hard cases written in advance: a blank availability cell, a renamed column, a rule the options strain, a request to say who should work. The manager checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) describes the record we keep.
 
@@ -62,13 +62,13 @@ The template judges no working-time or employment-law limit. It applies only the
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

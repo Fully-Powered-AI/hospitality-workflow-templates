@@ -1,4 +1,4 @@
-# Trial: Public guest review reply, run on its invented example
+# Trial: Public guest review reply, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Hotel Q, a made-up 40-room hotel, and an invented review). No client data was used.
+The inputs are the example in `public/example.md` (Hotel Q, a made-up 40-room hotel, and an illustrative review). No client data was used.
 
 This is the second run on 10 November 2026. The first run was made before the instruction block was revised (names rule, missing stop conditions, over-limit ranking, action-line rules, one order for the private notes) and before "Platform limits: none" was added to the example's inputs. That run's record has been replaced by this one, because the instruction block it tested no longer exists in that form.
 

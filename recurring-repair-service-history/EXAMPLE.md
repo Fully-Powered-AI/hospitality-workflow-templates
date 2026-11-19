@@ -1,6 +1,6 @@
-# Recurring repair service history: an invented example
+# Recurring repair service history: an example
 
-*Illustrative example with invented data.* The hotel, the equipment, the contractors, the dates and the disruptions below are all invented. The hotel is an invented 60-room property called Alder Quay Inn. Its facilities manager asks for the brief; people are referred to by role and contractors by letter.
+*Illustrative example with sample data.* The hotel, the equipment, the contractors, the dates and the disruptions below are all illustrative. The hotel is an illustrative 60-room property called Alder Quay Inn. Its facilities manager asks for the brief; people are referred to by role and contractors by letter.
 
 The inputs come first, in full, so the template can be run on them. The brief follows. Its section headings and room areas are set in bold and italic for the page; the template prints them in capitals.
 

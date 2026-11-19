@@ -1,4 +1,4 @@
-# Trial: Recurring repair service history, run on its invented example
+# Trial: Recurring repair service history, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Alder Quay Inn, a made-up 60-room hotel). No client data was used.
+The inputs are the example in `public/example.md` (Alder Quay Inn, a made-up 60-room hotel). No client data was used.
 
 This record replaces an earlier one made on the first version of the template. That run, also in Claude, matched the then-published brief closely; it was not blind either. The template, the output format and one input (the wording of work order W-3008) have since changed, so the earlier output no longer applies and is not kept here.
 

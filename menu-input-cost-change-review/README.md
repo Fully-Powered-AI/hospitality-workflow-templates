@@ -8,7 +8,7 @@ When supplier prices change, see which dishes cost more per portion and why, wit
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/menu-input-cost-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review)*
@@ -41,7 +41,7 @@ One worksheet in a fixed order. The price movements. The affected dishes with co
 
 A good worksheet can be checked against the three files with a calculator, and the chef recognizes every dish and quantity on it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Write down your costing rules in the plain form the template reads: whether reci
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
 
 Testing in your environment means running it on a past price change the chef remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a unit in grams against a recipe in kilograms, an ingredient with no price, two prices for one ingredient, a changed product, a blank yield. The chef checks every dish against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) describes the record we keep.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on a past price change the chef rem
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

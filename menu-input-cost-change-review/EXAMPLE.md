@@ -1,6 +1,6 @@
-# Menu input cost change review: an invented example
+# Menu input cost change review: an example
 
-*Illustrative example with invented data.* The restaurant, the suppliers, the dishes, the prices and the quantities below are all invented. Larkfield Table is an invented restaurant with four established dishes. Its suppliers are called Supplier A, B and C. First come the inputs the chef supplied, in full, then the worksheet the workflow template returned.
+*Illustrative example with sample data.* The restaurant, the suppliers, the dishes, the prices and the quantities below are all illustrative. Larkfield Table is an illustrative restaurant with four established dishes. Its suppliers are called Supplier A, B and C. First come the inputs the chef supplied, in full, then the worksheet the workflow template returned.
 
 ## The inputs
 

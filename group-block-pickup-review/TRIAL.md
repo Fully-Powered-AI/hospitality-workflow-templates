@@ -1,10 +1,10 @@
-# Group room block pickup review: trial on the invented example
+# Group room block pickup review: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Hotel A, Group G, block BLK-A1, run date 2027-02-01). No client data was used. The five inputs were the settings, the block export, the booking pickup, the approved agreement summary and the room inventory, all as listed in that file. The assistant followed the instruction block and the output format in `member/template.md`.
+The inputs were the example in `public/example.md` (Hotel A, Group G, block BLK-A1, run date 2027-02-01). No client data was used. The five inputs were the settings, the block export, the booking pickup, the approved agreement summary and the room inventory, all as listed in that file. The assistant followed the instruction block and the output format in `member/template.md`.
 
 ## First run: what came out
 
@@ -41,7 +41,7 @@ Note added after the first run, 10 November 2026: the record above is unchanged.
 
 ## Second run, on the edited text
 
-Later on 10 November 2026 a second independent review asked for further small edits, and the template was run again on its current text and the same invented example, with one change to the example's inputs: the three titles in the settings are now written in lower case ("revenue manager", "group-sales owner", "account owner for Group G"). The other inputs are unchanged.
+Later on 10 November 2026 a second independent review asked for further small edits, and the template was run again on its current text and the same example, with one change to the example's inputs: the three titles in the settings are now written in lower case ("revenue manager", "group-sales owner", "account owner for Group G"). The other inputs are unchanged.
 
 What came out: a complete brief with every section, the same figures as before (blocked 101, confirmed in the block 62, 61.4%, 8.6 points below the stated minimum; unfilled 39 with the 15 on 2027-03-11 King marked not settled; tentative 8; unfilled 31 if all were confirmed; cancelled 2; one room above the block on 2027-03-09 Twin; two reservations outside the block; check lines tied). The room rows were also worked by a short script from the input rows and agreed. Differences from the first run, all in wording and following the edits:
 

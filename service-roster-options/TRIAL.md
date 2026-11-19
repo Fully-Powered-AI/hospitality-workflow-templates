@@ -1,10 +1,10 @@
-# Service roster options: tried once on its invented example
+# Service roster options: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (settings, demand forecast, staffing rules and availability for an invented restaurant floor). No client data was used. I did not write the template. I read the template and the inputs first and followed the fenced instruction block and the output format. I then compared the result with the example's output and the reviewer checklist.
+The inputs were the example in `public/example.md` (settings, demand forecast, staffing rules and availability for an illustrative restaurant floor). No client data was used. I did not write the template. I read the template and the inputs first and followed the fenced instruction block and the output format. I then compared the result with the example's output and the reviewer checklist.
 
 One limit on this trial: the example's output was printed on my screen in the same command as the template and the inputs, so I had seen it before I produced my own. I worked every figure out from the inputs and the rules, but I was not blind to the published answer.
 

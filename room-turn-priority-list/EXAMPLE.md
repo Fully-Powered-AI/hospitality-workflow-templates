@@ -1,6 +1,6 @@
-# Room turn priority list: an invented example
+# Room turn priority list: an example
 
-*Illustrative example with invented data.* The hotel, the rooms, the codes and every record below are invented. Wexcombe Lane Hotel is an invented hotel. Its housekeeping supervisor plans the morning of Friday 4 December 2026. No guest is named.
+*Illustrative example with sample data.* The hotel, the rooms, the codes and every record below are illustrative. Wexcombe Lane Hotel is an illustrative hotel. Its housekeeping supervisor plans the morning of Friday 4 December 2026. No guest is named.
 
 The inputs come first, in full, so the template can be run on them. The priority list follows.
 

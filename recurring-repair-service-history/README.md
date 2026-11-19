@@ -8,7 +8,7 @@ One brief by equipment and room area sets repeated work orders, confirmed interr
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recurring-repair-service-history/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history)*
@@ -41,7 +41,7 @@ One brief in a fixed order. Anything written in a way that suggests injury, entr
 
 A good brief can be checked line by line against the four files in a few minutes, and the facilities manager recognizes every line on it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Use your own equipment IDs and room-area names, and use them the same way in all
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the run was not blind (the published brief had been seen), and the record is published with it. It has not been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It finds no cause and certifies no equipment.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the run was not blind (the published brief had been seen), and the record is published with it. It has not been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It finds no cause and certifies no equipment.
 
 Testing in your environment means running it on a past quarter the facilities manager remembers well, plus cases written in advance with their expected behavior: a renamed column, a work order for equipment missing from the register, a service note nobody confirmed, a repair closed with no check afterwards. The manager checks every line against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) describes the record we keep.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a past quarter the facilities ma
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

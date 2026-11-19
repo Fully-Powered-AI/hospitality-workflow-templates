@@ -127,7 +127,7 @@ If a section has nothing to show, print "None." under its heading. Where the sta
 
 ## Acceptance tests
 
-Proposed tests. None has been run as written, though the run on the invented example covered several of them in passing (see the trial record).
+Proposed tests. None has been run as written, though the run on the example covered several of them in passing (see the trial record).
 
 1. **Ordinary block.** Every file complete, reported pickup equal to the booking rows, terms approved. Expected: all figures tie and no count is listed as unreconciled.
 2. **Tentative rooms.** A tentative booking on a night with unfilled rooms. Expected: shown on its own line and in the "if every tentative room" figure, not counted as pickup, and a question for the account owner.
@@ -283,4 +283,4 @@ person who decides. Never adjust a figure to make it tie.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026, then edited after an independent review and run again on the edited text; both runs had seen the example's output first, so neither is independent of the example, and only one input set has been tried. The record is published with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 10 November 2026, then edited after an independent review and run again on the edited text; both runs had seen the example's output first, so neither is independent of the example, and only one input set has been tried. The record is published with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

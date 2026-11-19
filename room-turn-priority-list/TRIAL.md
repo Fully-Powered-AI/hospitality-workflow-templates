@@ -1,10 +1,10 @@
-# Room turn priority list: tried once on its invented example
+# Room turn priority list: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): the five input blocks for the invented Wexcombe Lane Hotel (settings, departure list, arrival list, supervisor's notes and priority rules). No client data was used. The run followed the template's instruction block and output format. The model that ran it did not write the template, and it read the example's output only after producing its own.
+The inputs were the example in [example.md](example.md): the five input blocks for the illustrative Wexcombe Lane Hotel (settings, departure list, arrival list, supervisor's notes and priority rules). No client data was used. The run followed the template's instruction block and output format. The model that ran it did not write the template, and it read the example's output only after producing its own.
 
 ## What came out
 

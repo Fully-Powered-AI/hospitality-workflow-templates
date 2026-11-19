@@ -8,7 +8,7 @@ Before a room block's review or release date, get rooms blocked, confirmed and u
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Hospitality · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/group-block-pickup-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-group-block-pickup-review&from=gh-hospitality-group-block-pickup-review)*
@@ -35,7 +35,7 @@ The revenue manager or the group-sales owner runs it when a block is approaching
 
 One brief in a fixed order: the pickup at a glance, a line for each night and room type, the counts that do not reconcile, any reservation outside the block, questions for the account owner, the two decisions and check lines that tie the totals. If a file's column headers do not match, it stops and asks before counting anything. If the approved summary shows the terms as disputed, the brief gives the room counts but does not compare them with the agreement and frames no decision.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -51,7 +51,7 @@ Name your revenue manager, group-sales owner and account owner. Set the column h
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, edited after an independent review, and run again on the edited text. Both runs had seen the example's output first, so neither is independent of the example, and only one input set has been tried: no stop, disputed-terms, missing-summary or passed-date case has been run. The record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, edited after an independent review, and run again on the edited text. Both runs had seen the example's output first, so neither is independent of the example, and only one input set has been tried: no stop, disputed-terms, missing-summary or passed-date case has been run. The record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past block your team already knows, with cases written in advance: a pickup figure that differs from the bookings, tentative rooms, a reservation outside the block, a disputed summary. The revenue manager checks every count against the booking report before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-group-block-pickup-review&from=gh-hospitality-group-block-pickup-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-group-block-pickup-review&from=gh-hospitality-group-block-pickup-review) describes the record we keep.
 
@@ -59,13 +59,13 @@ Testing in your environment means running it on a past block your team already k
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

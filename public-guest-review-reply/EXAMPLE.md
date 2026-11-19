@@ -1,6 +1,6 @@
-# Public guest review reply: an invented example
+# Public guest review reply: an example
 
-*Illustrative example with invented data.* Hotel Q is an invented 40-room hotel, the guest is invented, and so are the people, the dates and every record below. First come the inputs the guest relations manager supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* Hotel Q is an illustrative 40-room hotel, the guest is illustrative, and so are the people, the dates and every record below. First come the inputs the guest relations manager supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

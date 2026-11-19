@@ -117,7 +117,7 @@ Draft for [manager]'s approval. Nothing has been posted, sent or recorded.
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test; the trial on the invented example covers the normal case only.
+Proposed tests. None has been run as a test; the trial on the example covers the normal case only.
 
 1. **Normal review.** A mixed review, four actions of which two are marked yes. Expected: only the two are used; the others appear in the private notes with a reason.
 2. **Header mismatch.** The action list has a column called Status where Confirmed by should be. Expected: stops and asks.
@@ -229,4 +229,4 @@ Never ask for a password or a login code.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 10 November 2026, the record published with it; the trial was not independent, because the assistant had seen the example's reply before drafting. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example in Claude on 10 November 2026, the record published with it; the trial was not independent, because the assistant had seen the example's reply before drafting. Not yet tested in a client environment.
