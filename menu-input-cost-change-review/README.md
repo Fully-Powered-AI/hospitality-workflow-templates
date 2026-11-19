@@ -1,10 +1,17 @@
 # Menu input cost change review
 
-When supplier prices change, the chef and food-and-beverage manager get one worksheet: each price movement tied to the quantities in the supplied recipes, the cost per portion of every affected dish before and after, and questions for the chef. It sets no menu price.
+When supplier prices change, see which dishes cost more per portion and why, with questions for the chef. The chef decides menu prices and purchasing.
 
-*Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/menu-input-cost-change-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Menu input cost change review on our website](https://fullypowered.ai/workflows/menu-input-cost-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/menu-input-cost-change-review/?from=gh-menu-input-cost-change-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Hospitality · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/menu-input-cost-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review)*
 
 ## The outcome
 
@@ -38,13 +45,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where cost of sales is watched and a movement in input costs should reach the numbers before the month closes.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), where the buyer needs to see which price changes matter to the kitchen and which do not.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where the dishes are established, the margin is thin and the supplier's price list changes more often than the menu.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where recipes and costing rules sit in the chef's head and a few files, and belong on a page.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more dishes, more sites or more suppliers make doing it by hand too slow.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review), where cost of sales is watched and a movement in input costs should reach the numbers before the month closes.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review), where the buyer needs to see which price changes matter to the kitchen and which do not.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review), where the dishes are established, the margin is thin and the supplier's price list changes more often than the menu.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review), where recipes and costing rules sit in the chef's head and a few files, and belong on a page.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review), when more dishes, more sites or more suppliers make doing it by hand too slow.
 
-It starts from supplier prices and recipes, and its question is what a dish costs now. [Price change review](https://fullypowered.ai/workflows/price-change-review/) starts from the prices a business charges and tests proposed changes to them. [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/) starts from payables and looks at where the money goes by supplier. [Budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/) explains a month's gap to budget in the ledger.
+It starts from supplier prices and recipes, and its question is what a dish costs now. [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) starts from the prices a business charges and tests proposed changes to them. [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) starts from payables and looks at where the money goes by supplier. [Budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) explains a month's gap to budget in the ledger.
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ Write down your costing rules in the plain form the template reads: whether reci
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made afterward, the latest of which clarify its rules, have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It gives no food-safety, allergen or dietary judgment.
 
-Testing in your environment means running it on a past price change the chef remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a unit in grams against a recipe in kilograms, an ingredient with no price, two prices for one ingredient, a changed product, a blank yield. The chef checks every dish against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past price change the chef remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a unit in grams against a recipe in kilograms, an ingredient with no price, two prices for one ingredient, a changed product, a blank yield. The chef checks every dish against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,10 +88,10 @@ Testing in your environment means running it on a past price change the chef rem
 
 ## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
-- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-menu-input-cost-change-review&from=gh-menu-input-cost-change-review).

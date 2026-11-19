@@ -1,10 +1,17 @@
 # Recurring repair service history
 
-When repeated maintenance keeps disturbing guests, the facilities manager gets one brief by equipment and room area: repeated work orders, confirmed service interruptions and missing inspection records side by side. It finds no cause and orders no work.
+One brief by equipment and room area sets repeated work orders, confirmed interruptions and missing inspection records side by side. A person decides.
 
-*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recurring-repair-service-history/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Recurring repair service history on our website](https://fullypowered.ai/workflows/recurring-repair-service-history/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/recurring-repair-service-history/?from=gh-recurring-repair-service-history)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recurring-repair-service-history/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history)*
 
 ## The outcome
 
@@ -38,14 +45,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where a repeated failure is a process question before it is a purchase.
-- [Health, safety & environment](https://fullypowered.ai/functions/health-safety-and-environment/), where missing inspection records are a question to put to the person responsible.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where a lift, a cooling unit or a pool pump that keeps failing is a guest experience, not just a log entry.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), for managed buildings with shared equipment and tenants who notice every outage.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the history of a machine lives in a few people's memories.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more rooms and more equipment outgrow what one manager can remember.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history), where a repeated failure is a process question before it is a purchase.
+- [Health, safety & environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history), where missing inspection records are a question to put to the person responsible.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history), where a lift, a cooling unit or a pool pump that keeps failing is a guest experience, not just a log entry.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history), for managed buildings with shared equipment and tenants who notice every outage.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history), where the history of a machine lives in a few people's memories.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history), when more rooms and more equipment outgrow what one manager can remember.
 
-The separate [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/) plans equipment care ahead of time. The [repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/) compares safety incidents and their earlier actions. [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/) concerns who may work on site. This workflow template reads what has already happened to one property's equipment.
+The separate [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) plans equipment care ahead of time. The [repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) compares safety incidents and their earlier actions. [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) concerns who may work on site. This workflow template reads what has already happened to one property's equipment.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Use your own equipment IDs and room-area names, and use them the same way in all
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the run was not blind (the published brief had been seen), and the record is published with it. It has not been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It finds no cause and certifies no equipment.
 
-Testing in your environment means running it on a past quarter the facilities manager remembers well, plus cases written in advance with their expected behavior: a renamed column, a work order for equipment missing from the register, a service note nobody confirmed, a repair closed with no check afterwards. The manager checks every line against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter the facilities manager remembers well, plus cases written in advance with their expected behavior: a renamed column, a work order for equipment missing from the register, a service note nobody confirmed, a repair closed with no check afterwards. The manager checks every line against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on a past quarter the facilities ma
 
 ## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
-- [Repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)
-- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history)
+- [Repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history)
+- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-recurring-repair-service-history&from=gh-recurring-repair-service-history).

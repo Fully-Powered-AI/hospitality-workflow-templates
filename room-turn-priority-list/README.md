@@ -1,10 +1,17 @@
 # Room turn priority list
 
-Each morning the housekeeping supervisor gets one worklist of the rooms to turn, in the property's own priority order, with rooms awaiting inspection marked and every conflict in status written as a question. It inspects nothing and assigns nobody.
+Get one morning worklist of rooms to turn in your own priority order, with conflicts written as questions. The supervisor verifies and assigns.
 
-*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/room-turn-priority-list/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Room turn priority list on our website](https://fullypowered.ai/workflows/room-turn-priority-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/room-turn-priority-list/?from=gh-hospitality-room-turn-priority-list)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Hospitality · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/room-turn-priority-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list)*
 
 ## The outcome
 
@@ -38,12 +45,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the daily plan is a repeated process that should run the same way each morning.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where the order rooms come back decides whether guests wait at the desk.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the priority rules live in one supervisor's head and belong on a page.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more rooms and more shifts turn over than one person can follow.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list), where the daily plan is a repeated process that should run the same way each morning.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list), where the order rooms come back decides whether guests wait at the desk.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list), where the priority rules live in one supervisor's head and belong on a page.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list), when more rooms and more shifts turn over than one person can follow.
 
-The sibling for a rented unit between tenants is [unit turnover readiness checklist](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/). [Emergency drill brief](https://fullypowered.ai/workflows/emergency-drill-brief/) is separate work, and [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/) covers equipment through the year.
+The sibling for a rented unit between tenants is [unit turnover readiness checklist](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list). [Emergency drill brief](https://fullypowered.ai/workflows/emergency-drill-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list) is separate work, and [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list) covers equipment through the year.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Start from your own priority rules and write them in the plain form the template
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. Small wording edits made to the instructions and output format after that trial have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It certifies nothing about the state of a room.
 
-Testing in your environment means running it on two or three past mornings your supervisor remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a departure marked expected while a note says cleaning, a note that is too old, a room on hold with an arrival, a rule the template cannot read. The supervisor checks every line against the lists before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past mornings your supervisor remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, a departure marked expected while a note says cleaning, a note that is too old, a room on hold with an arrival, a rule the template cannot read. The supervisor checks every line against the lists before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,10 +87,10 @@ Testing in your environment means running it on two or three past mornings your 
 
 ## Related workflow templates
 
-- [Unit turnover readiness checklist](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/)
-- [Emergency drill brief](https://fullypowered.ai/workflows/emergency-drill-brief/)
-- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
+- [Unit turnover readiness checklist](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list)
+- [Emergency drill brief](https://fullypowered.ai/workflows/emergency-drill-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-room-turn-priority-list&from=gh-hospitality-room-turn-priority-list).

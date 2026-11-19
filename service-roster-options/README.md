@@ -1,10 +1,17 @@
 # Service roster options
 
-For a department manager building a rota for expected occupancy, covers or events: two or three roster options side by side, with each role's need, the staff confirmed available, the periods left uncovered and the labor-cost assumptions you supplied. You verify and approve; nothing is published.
+Two or three roster options side by side for expected occupancy, covers or events, with gaps and labor cost shown. You verify and approve it.
 
-*Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-roster-options/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Service roster options on our website](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/service-roster-options/?from=gh-hospitality-service-roster-options)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Hospitality · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options)*
 
 ## The outcome
 
@@ -34,22 +41,22 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which owns the approval of the roster and the rules it is checked against.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the day's service is made to work with the people available.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where occupancy, covers and events move the need from one day to the next.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where shop-floor and fulfilment cover follows promotions and peak days.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where venues and productions staff to an event's size.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a rota has run the same way for years and a busy week exposes its gaps.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), which owns the approval of the roster and the rules it is checked against.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), where the day's service is made to work with the people available.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), where occupancy, covers and events move the need from one day to the next.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), where shop-floor and fulfilment cover follows promotions and peak days.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), where venues and productions staff to an event's size.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), where a rota has run the same way for years and a busy week exposes its gaps.
 
 ## What has to change for your company
 
-Decide the periods and their lengths. Set your own staffing ratios and minimums, and decide which measures drive each role. Name the rules you want checked and the ones you check by hand. Decide whether the on-cost percentage applies to every role. Keep staff as reference codes in what you paste, and agree when HR sees an option. It stays a different piece of work from the [headcount plan](https://fullypowered.ai/workflows/headcount-plan/), which plans roles for a year, and from [payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/), which handles hours already worked. For events with their own run of show, the [event plan](https://fullypowered.ai/workflows/event-plan/) comes first. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to your scheduling or payroll system.
+Decide the periods and their lengths. Set your own staffing ratios and minimums, and decide which measures drive each role. Name the rules you want checked and the ones you check by hand. Decide whether the on-cost percentage applies to every role. Keep staff as reference codes in what you paste, and agree when HR sees an option. It stays a different piece of work from the [headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), which plans roles for a year, and from [payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options), which handles hours already worked. For events with their own run of show, the [event plan](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) comes first. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to your scheduling or payroll system.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it. The template was clarified in small ways afterward, and those clarifications have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-The template judges no working-time or employment-law limit. It applies only the rules you supply, as arithmetic, and says nothing about whether those rules are enough. Testing in your environment means running it on a past week your manager already knows, plus hard cases written in advance: a blank availability cell, a renamed column, a rule the options strain, a request to say who should work. The manager checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+The template judges no working-time or employment-law limit. It applies only the rules you supply, as arithmetic, and says nothing about whether those rules are enough. Testing in your environment means running it on a past week your manager already knows, plus hard cases written in advance: a blank availability cell, a renamed column, a rule the options strain, a request to say who should work. The manager checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -76,10 +83,10 @@ The template judges no working-time or employment-law limit. It applies only the
 
 ## Related workflow templates
 
-- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
-- [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/)
-- [Event plan](https://fullypowered.ai/workflows/event-plan/)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options)
+- [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=hospitality-service-roster-options&from=gh-hospitality-service-roster-options).
